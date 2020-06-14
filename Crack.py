@@ -1,4 +1,4 @@
-# MAU APA LO GOBLOK
+# MAU APA?
 # DARK FB MOD PRO [ Full Password ]
 
 import marshal,zlib,base64
